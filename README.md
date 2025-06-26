@@ -3,7 +3,7 @@
 <h3 align="center">🤔 Projekty:</h3>
 
 - FazeDEV - Pierwszy duży projekt skupiający się na sklepie w którym można kupić jakiś produkt związany z minecraft
-  Ranga: CEO
+  <p>Ranga: CEO</p>
 
 - MetaCore - Drugi duży projekt który jest na zasadzie core do serwerów minecraft, umożliwia on zoptymalizowanie serwerów i upiększenie ich. Projekt jeszcze jest w trakcie realizacji więc możemy się go spodziewać za niedługo
-  Ranga: CEO - Lead Developer
+  <p>Ranga: CEO - Lead Developer</p>
