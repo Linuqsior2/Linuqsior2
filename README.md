@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gethertv&label=Profile%20views&color=0e75b6&style=flat" alt="gethertv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Linuqsior2&label=Profile%20views&color=0e75b6&style=flat" alt="gethertv" /> </p>
 
 <h3 align="center">`🤔` Projekty:</h3>
 
