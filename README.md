@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=linuqsior2&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=linuqsior2&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=linuqsior2&label=Profile%20views&color=0e75b6&style=flat" alt="linuqsior2" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
